@@ -1,0 +1,48 @@
+
+body{
+	margin: 0;
+	font-family: Helvetica Neve;
+}
+
+header{
+	background-color: #f0f0f0;
+	text-align: center;
+	color: lightgrey;
+	padding-top: 10px;
+	width: 100%;
+	margin: 0;
+
+	position: fixed;
+	top: 0;
+}
+
+nav{
+	background-color: #ccc;
+	color: black;
+	padding: 5px;
+	text-align: center;
+}
+
+main{
+	background-color: lightgrey;
+	float: left;
+	width: 60%;
+	height: 89%;
+}
+
+aside{
+	background-color: #f5f5f5;
+	width: 40%;
+	float: right;
+	height: 89%;
+}
+
+footer{
+	background-color: lightblue;
+	font-family: Verdana;
+	font-size: 13px;
+	text-align: center;
+	height: 20px;
+}
+
+
