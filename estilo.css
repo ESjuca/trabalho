@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+body{
+  background-color: #000000;
+  color: #ffffff;
+  font-family: Verdana,Arial,Helvetica;
+  font-size: 12px;
+  text-align: justify;
+
+}
+
+#geral{
+ 
+  margin: auto;
+  width: 1000px;
+
+}
+
+header{
+  background-image:url(Logo_nova.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 800px 100px;
+  width: 1000px;
+  height: 100px;
+  padding-top: 0px;
+  margin-top: 30px;
+}
+
+nav{
+
+  font-size: 15px;
+  height: 40px;
+  text-align: center;
+}
+
+aside{
+  background-color: #eee1;
+  border-radius: 10px;
+  border: 0.5px solid #8887;
+  width: 1000px;
+  height: 520px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 15px;
+}
+
+#rodape{
+  height: 20px;
+  text-align: center;
+  font-size: 10px;
+}
+
+img{
+	margin-right: 15px;
+	float: left;
+}
+
+p{
+	font-size: 15px;
+}
+
+#arquiteto{
+	float: right;
+	margin-right:  0px;
+	margin-left: 15px;
+}
+
+#textarqui{
+	text-align: right;
+}
